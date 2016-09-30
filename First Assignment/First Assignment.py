@@ -1,6 +1,6 @@
 System = input("Which system would you like to use? USC or Metric?")
 #this is the initial prompt to find out which system the user wants to use
-Distance = float ("How far did you drive?")
+Distance = input("How far did you drive?")
 if  System == "USC":
     print ("Miles")
 else:
