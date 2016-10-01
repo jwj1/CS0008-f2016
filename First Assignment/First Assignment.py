@@ -2,26 +2,49 @@ System = input("Which system would you like to use? USC or Metric?")
 #this is the initial prompt to find out which system the user wants to use
 Distance = input("How far did you drive?")
 Gas = input("How much gas did you use?")
-if  System == "USC":
-    Distance == DistanceU
-    print ("Miles")
-else:
-    print("Km")
-if System == "USC":
-    # user selected USC
-    # ask user for USC quantities
-    # convert to metric
-    print("Gallons")
-else:
-    # user selected Metric
-    print("Liters")
-#end if
 
+if  System == "USC":
+    DU = Distance
+    print DU
+    print ("Miles")
+    GU = Gas
+    print GU
+    print ("Gallons")
+    DM = DU * 1.60934
+    print DM
+    print ("Km")
+    GM = GU * 3.78541
+    print GM
+    print ("Liters")
+else:
+    DM = Distance
+    print DM
+    print("Km")
+    GM = Gas
+    print GM
+    print ("Liters")
+    DU = DM *.621371
+    print DU
+    print ("Miles")
+    GU = GM * .264172
+    print GU
+    print ("Gallons")
 # compute consumption
 # USC
-ConsumptionUS =
+ConsumptionUS = float(DU / GU)
 # Metric
-ConsumptionMetric =
+ConsumptionM = float(DM / GM)
+if System == "USC":
+    print ConsumptionUS
+    print "mpg"
+    print ConsumptionM
+    print "1/100km"
+else:
+    print ConsumptionM
+    print "1/100km"
+    print ConsumptionUS
+    print "mpg"
+
 #
 #Consumption = float(Distance / Gas)
 #if System == "USC":
@@ -35,13 +58,16 @@ ConsumptionMetric =
 #    Distance * .62371
 #Gas * .264172
 
-print ("Gas Consumption Ratin")
-if Consumption >20:
+print ("Gas Consumption Rating")
+if ConsumptionM > 20:
     print ("Extremely Poor")
-if Consumption > 20:
-    print ("Extremely Poor")
- elif Consumption > 15 and Consumption =<20  :
-    print ("Poor") 
-elif Consumption > 10 and Consumption =<15   print ("Average") 
-elif: Consumption > 8 and Consumption =<10     print ("Good") 
-elif: Consumption <= 8: print("Excellent")
+elif ConsumptionM > 15 and ConsumptionM =< 20:
+    print ("Poor")
+elif ConsumptionM > 10 and ConsumptionM =< 15:
+    print("Average")
+elif ConsumptionM > 8 and ConsumptionM =< 10:
+    print ("Good")
+elif ConsumptionM < 8:
+    print ("Excellent")
+
+format(,"6.3f")

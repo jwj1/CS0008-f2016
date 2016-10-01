@@ -1,2 +1,12 @@
 The first line asks the user to indicate which measurement system to use
-the second line
+the second line and third lines ask the user to indicate how far and how much gas was used.
+the first if statement is for USC
+if it is usc then the program will take distance and gas and use the apppropriate units.
+then the program will convert the USC into metric system
+
+the same will happen if the user selects metric only the other way around
+
+consumption totals are calculated for both metric and USC
+the if statement indicates which order they will be printed in
+
+finally, the consumption rating uses the Consumption in metric to measure the consumption rate
