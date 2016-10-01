@@ -70,4 +70,4 @@ elif ConsumptionM > 8 and ConsumptionM =< 10:
 elif ConsumptionM < 8:
     print ("Excellent")
 
-format(,"6.3f")
+format("6.3f")
