@@ -1,0 +1,4 @@
+the first part is creating the file processing function
+it takes the name and distance and sperates the two and then goes to the next line until there are no more lines
+then I have the print function defined but i really dont know how to do the formatting
+then after that i have the main code which is when i call on the different functions
