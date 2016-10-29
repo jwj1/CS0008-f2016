@@ -9,7 +9,7 @@ elif numgoods >=5001 and <= 10000:
     discount = .20
 elif numgoods > 10000:
     discount = .20 + (numgoods * .01)
-else error
+else :error
 Total_Cost= numgoods * .5
 Total_Cost_Dis= Total_Cost * discount
 

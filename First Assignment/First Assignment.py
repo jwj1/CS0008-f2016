@@ -2,7 +2,7 @@ System = input("Which system would you like to use? USC or Metric?")
 #this is the initial prompt to find out which system the user wants to use
 Distance = input("How far did you drive?")
 Gas = input("How much gas did you use?")
-
+unit = vars("USC or Metric")
 if  System == "USC":
     DU = Distance
     print DU
