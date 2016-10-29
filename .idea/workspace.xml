@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d1a819-0aec-4279-82cb-996b409e0566" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2nd assignment/__init__.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Ch1-Ex3/f2016_cs8_jwj10_a2/2nd Assingment.py" afterPath="$PROJECT_DIR$/2nd assignment/2nd Assingment.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CS0008-f2016.iws" />
@@ -23,7 +25,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="2nd Assingment.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ch1-Ex3/f2016_cs8_jwj10_a2/2nd Assingment.py">
+        <entry file="file://$PROJECT_DIR$/2nd assignment/2nd Assingment.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
@@ -180,8 +182,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Ch1-Ex3/f2016_cs8_jwj10_a2" />
       <recent name="$PROJECT_DIR$/2nd assignment" />
+      <recent name="$PROJECT_DIR$/Ch1-Ex3/f2016_cs8_jwj10_a2" />
       <recent name="$PROJECT_DIR$/First Assignment" />
     </key>
   </component>
@@ -232,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS0008-f2016" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch1-Ex3/f2016_cs8_jwj10_a2/2nd Assingment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2nd assignment/2nd Assingment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -521,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477770205937</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Assignment commit">
+      <created>1477770267664</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1477770267664</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -731,7 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch1-Ex3/f2016_cs8_jwj10_a2/2nd Assingment.py">
+    <entry file="file://$PROJECT_DIR$/2nd assignment/2nd Assingment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
