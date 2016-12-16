@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27d1a819-0aec-4279-82cb-996b409e0566" name="Default" comment="Assignment commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/f2016_cs8_jwj10_fp/f2016_cs8_jwj10_fp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/f2016_cs8_jwj10_fp/f2016_cs8_jwj10_fp.readme.txt" />
+    <list default="true" id="27d1a819-0aec-4279-82cb-996b409e0566" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CS0008-f2016.iws" />
@@ -24,16 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f2016_cs8_&lt;jwj10&gt;_a3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f2016_cs8_&lt;jwj10&gt;_a3/f2016_cs8_&lt;jwj10&gt;_a3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="final prject.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/final prject.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,20 +156,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="f2016_cs8_jwj10_fp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CS0008-f2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CS0008-f2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f2016_cs8_&lt;jwj10&gt;_a3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -634,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480277757131</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Assignment commit">
+      <created>1481863236567</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1481863236567</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
